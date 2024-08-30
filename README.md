@@ -1,11 +1,11 @@
 rBiblia for Windows
 ===================
 
-Main repository for [rBiblia](https://rbiblia.toborek.info) application.
+Main Repository for the [rBiblia](https://rbiblia.toborek.info/en-US/) Application.
 
-This repository is currently private. Please check [road map](https://github.com/rBiblia/rbiblia-windows/projects/1) to see what is coming next. Use [issues board](https://github.com/rBiblia/rbiblia-windows/issues) to report bugs.
+This repository is currently private. Please check [the roadmap](https://github.com/orgs/rBiblia/projects/1/views/1) to see upcoming features. Use the [issues board](https://github.com/rBiblia/rbiblia-windows/issues) to report any bugs.
 
-You can drop me a line using dedicated [contact form](https://toborek.info/kontakt/) (please keep in mind that I can understand only Polish and English language).
+You can contact me using the dedicated [contact form](https://kontakt.toborek.info) (please note that I can only understand Polish and English).
 
 Please [support my work](https://rbiblia.toborek.info/donation/).
 
